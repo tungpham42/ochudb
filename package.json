@@ -1,0 +1,26 @@
+{
+  "name": "ochudb",
+  "version": "1.0.0",
+  "description": "Ô Chữ API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungpham42/ochudb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tungpham42/ochudb/issues"
+  },
+  "homepage": "https://github.com/tungpham42/ochudb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "serverless-http": "^3.2.0"
+  }
+}
